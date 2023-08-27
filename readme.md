@@ -1,6 +1,6 @@
-# Scratch Debugger
+# Debugger for Scratch
 
-This is a monorepo for our Scratch Debugger.
+This is a monorepo for our debugger for Scratch.
 
 The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository.
 Our debugger needs one additional package and a fork of two Scratch packages:
@@ -18,8 +18,13 @@ Below are installation instructions, assuming you use the monorepo.
 3. Initialize the submodules: `todo`
 4. Run the installation script: `./install.sh`
 
-## Build instructions
+If you want to run the installation manually (e.g. Windows), run each command from the installation script.
 
-Once all dependencies are installed, you should build the Scratch GUI as normal:
+## Rebuild instructions
 
-TODO
+The installation instructions above will build the GUI once.
+However, if you change things, you'll need to rebuild everything.
+
+- If you work on Itch, you'll need to run `npm run build` inside the `itch` folder. Alternatively, you can run `npm run watch` to automatically rebuild Itch on changes.
+- If you work on the VM, you'll need to run `npm run build` inside the `scratch-vm` folder. Alternatively, you can run `npm run watch` to automatically rebuild the Scratch VM on changes.
+- To see or work on the GUI, run `npm run start` inside the `scratch-gui` folder.
