@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-set -euxo pipefail
+set -euo pipefail
 
 # When will Scratch update?
 export NODE_OPTIONS=--openssl-legacy-provider
