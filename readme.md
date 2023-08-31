@@ -5,11 +5,11 @@ This is a monorepo for our debugger for Scratch.
 The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository.
 Our debugger needs one additional package and a fork of two Scratch packages:
 
-- The judge
-- The VM
-- The GUI
+- The [judge](https://github.com/scratch4d/itch/tree/debugger)
+- The [VM](https://github.com/scratch4d/scratch-vm/tree/debugger)
+- The [GUI](https://github.com/scratch4d/scratch-gui/tree/debugger)
 
-Below are installation instructions, assuming you use the monorepo.
+Below are installation instructions, assuming you use this repository.
 
 ## Installation instructions
 
