@@ -1,6 +1,6 @@
 # Debugger for Scratch
 
-This is a monorepo for our debugger for Scratch.
+This is a monorepo for the Blink debugger for Scratch.
 
 The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository.
 Our debugger needs one additional package and a fork of two Scratch packages:
