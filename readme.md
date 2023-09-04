@@ -2,8 +2,7 @@
 
 This is a monorepo for the Blink debugger for Scratch.
 
-The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository.
-Our debugger needs one additional package and a fork of two Scratch packages:
+The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository. Blink needs one additional package and a fork of two Scratch packages:
 
 - The [judge](https://github.com/scratch4d/itch/tree/debugger)
 - The [VM](https://github.com/scratch4d/scratch-vm/tree/debugger)
