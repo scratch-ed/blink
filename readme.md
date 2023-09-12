@@ -14,8 +14,7 @@ Below are installation instructions, assuming you use this repository.
 
 1. Have an environment with Node, npm and Bash.
 2. Clone this repository.
-3. Initialize the submodules: `todo`
-4. Run the installation script: `./install.sh`
+3. Run the installation script: `./install.sh`
 
 If you want to run the installation manually (e.g. Windows), run each command from the installation script.
 
