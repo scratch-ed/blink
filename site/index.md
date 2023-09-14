@@ -20,13 +20,13 @@ features:
       src: /Scratch_S.svg
       width: 28
       wrap: true
-    link: https://scratch.ugent.be/editor
+    link: https://scratch.ugent.be/blink/editor
   - title: "Demo: Star"
     icon: ⭐
     details: Open the Star project. The player must follow the path without touching the water. Find the bug.
-    link: https://scratch.ugent.be/editor?project=/blink/star.sb3
+    link: https://scratch.ugent.be/blink/editor?project=/blink/star.sb3
   - title: "Demo: Maze"
     icon: 🧭
     details: Open the Maze demo project. The player must navigate a maze. Find the bug.
-    link: https://scratch.ugent.be/editor?project=/maze/maze.sb3
+    link: https://scratch.ugent.be/blink/editor?project=/maze/maze.sb3
 ---
