@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Blink"
-  text: "A debugger for Scratch™"
-  tagline: "Intuitive yet powerful educational software debugger for Scratch™"
+  text: "A debugger for Scratch"
+  tagline: "Intuitive yet powerful educational software debugger for Scratch"
 #  tagline: Niko Strijbol, Robbe De Proft, Klaas Goethals, Bart Mesuere, Peter Dawyndt, Christophe Scholliers
   actions:
     - theme: brand
