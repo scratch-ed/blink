@@ -46,6 +46,7 @@ dist
 .cache/
 .vuepress/dist/
 .vitepress/dist/
+.vitepress/cache/
 .temp
 .docusaurus
 .serverless/
