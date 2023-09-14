@@ -11,9 +11,12 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/documentation' }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/scratch-ed/blink' }
-    ]
+    ],
+    footer: {
+      message: 'Blink is developed at Ghent University.',
+      copyright: 'Scratch is a trademark of the Scratch Team at the MIT Media Lab.'
+    }
   }
 })

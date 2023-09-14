@@ -1,8 +1,11 @@
 # Documentation for Blink
 
-Blink is a debugger for Scratch.
+Blink is a back-in-time debugger for Scratch.
+This page contains an overview of its features.
 
 ## Enabling and disabling
+
+![Debugger enabling](/buttons.png)
 
 When you open the Scratch Editor, the debugger is disabled by default.
 To start a debugging session, press the "Bug" icon next to the normal Scratch controls.
@@ -12,12 +15,15 @@ To disable debug mode, press the bug icon again.
 
 ## Pausing and timeline
 
+![Timeline](/timeline.png)
+
 The controls under the canvas allow you to pause (or resume) execution.
 
 - When paused, the forward button can be used to execute one step.
 - The next block(s) that will be executed are highlighted in gray.
 - The timeline and back button allow you to go back to a previous state.
 - The red dot blinks to indicate you are executing. If the red dot is not blinking, you are in a previous state and thus replaying an execution.
+- The small cross next to the timeline clears the complete history.
 
 ## Breakpoints (pause blocks)
 
