@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="149.85000000000002" height="238.95000000000002"
+     viewBox="0 0 149.85000000000002 238.95000000000002" class="scratchblocks-style-scratch3">
+    <defs>
+        <style>
+            <![CDATA[.sb3-label{font:500 12pt Helvetica Neue,Helvetica,sans-serif;word-spacing:1pt}.sb3-literal-dropdown,.sb3-literal-number,.sb3-literal-number-dropdown,.sb3-literal-string{word-spacing:0}.sb3-comment{fill:#ffffa5;stroke:#d0d1d2;stroke-width:1}.sb3-comment-line{fill:#ffff80}.sb3-comment-label{font:400 12pt Helvetica Neue,Helvetica,sans-serif;fill:#000;word-spacing:0}.sb3-diff{fill:none;stroke:#000}.sb3-diff-ins{stroke-width:2px}.sb3-diff-del{stroke-width:3px}svg .sb3-motion{fill:#4c97ff;stroke:#3373cc}svg .sb3-motion-alt{fill:#4280d7}svg .sb3-motion-dark{fill:#3373cc}svg .sb3-looks{fill:#96f;stroke:#774dcb}svg .sb3-looks-alt{fill:#855cd6}svg .sb3-looks-dark{fill:#774dcb}svg .sb3-sound{fill:#cf63cf;stroke:#bd42bd}svg .sb3-sound-alt{fill:#c94fc9}svg .sb3-sound-dark{fill:#bd42bd}svg .sb3-control{fill:#ffab19;stroke:#cf8b17}svg .sb3-control-alt{fill:#ec9c13}svg .sb3-control-dark{fill:#cf8b17}svg .sb3-events{fill:#ffbf00;stroke:#c90}svg .sb3-events-alt{fill:#e6ac00}svg .sb3-events-dark{fill:#c90}svg .sb3-sensing{fill:#5cb1d6;stroke:#2e8eb8}svg .sb3-sensing-alt{fill:#47a8d1}svg .sb3-sensing-dark{fill:#2e8eb8}svg .sb3-operators{fill:#59c059;stroke:#389438}svg .sb3-operators-alt{fill:#46b946}svg .sb3-operators-dark{fill:#389438}svg .sb3-variables{fill:#ff8c1a;stroke:#db6e00}svg .sb3-variables-alt{fill:#ff8000}svg .sb3-variables-dark{fill:#db6e00}svg .sb3-list{fill:#ff661a;stroke:#e64d00}svg .sb3-list-alt{fill:#f50}svg .sb3-list-dark{fill:#e64d00}svg .sb3-custom{fill:#ff6680;stroke:#f35}svg .sb3-custom-alt{fill:#ff4d6a}svg .sb3-custom-dark{fill:#f35}svg .sb3-extension{fill:#0fbd8c;stroke:#0b8e69}svg .sb3-extension-alt{fill:#0da57a}svg .sb3-extension-dark{fill:#0b8e69}svg .sb3-obsolete{fill:#ed4242;stroke:#ca2b2b}svg .sb3-obsolete-alt{fill:#db3333}svg .sb3-obsolete-dark{fill:#ca2b2b}svg .sb3-grey{fill:#bfbfbf;stroke:#909090}svg .sb3-grey-alt{fill:#b2b2b2}svg .sb3-grey-dark{fill:#909090}svg .sb3-label{fill:#fff}svg .sb3-input-color{stroke:#fff}svg .sb3-input-number,svg .sb3-input-string{fill:#fff}svg .sb3-literal-number,svg .sb3-literal-string{fill:#575e75}svg.scratchblocks-style-scratch3-high-contrast .sb3-motion{fill:#80b5ff;stroke:#3373cc}svg.scratchblocks-style-scratch3-high-contrast .sb3-motion-alt{fill:#b3d2ff}svg.scratchblocks-style-scratch3-high-contrast .sb3-motion-dark{fill:#3373cc}svg.scratchblocks-style-scratch3-high-contrast .sb3-looks{fill:#ccb3ff;stroke:#774dcb}svg.scratchblocks-style-scratch3-high-contrast .sb3-looks-alt{fill:#dcf}svg.scratchblocks-style-scratch3-high-contrast .sb3-looks-dark{fill:#774dcb}svg.scratchblocks-style-scratch3-high-contrast .sb3-sound{fill:#e19de1;stroke:#bd42bd}svg.scratchblocks-style-scratch3-high-contrast .sb3-sound-alt{fill:#ffb3ff}svg.scratchblocks-style-scratch3-high-contrast .sb3-sound-dark{fill:#bd42bd}svg.scratchblocks-style-scratch3-high-contrast .sb3-control{fill:#ffbe4c;stroke:#cf8b17}svg.scratchblocks-style-scratch3-high-contrast .sb3-control-alt{fill:#ffda99}svg.scratchblocks-style-scratch3-high-contrast .sb3-control-dark{fill:#cf8b17}svg.scratchblocks-style-scratch3-high-contrast .sb3-events{fill:#ffd966;stroke:#c90}svg.scratchblocks-style-scratch3-high-contrast .sb3-events-alt{fill:#ffecb3}svg.scratchblocks-style-scratch3-high-contrast .sb3-events-dark{fill:#c90}svg.scratchblocks-style-scratch3-high-contrast .sb3-sensing{fill:#85c4e0;stroke:#2e8eb8}svg.scratchblocks-style-scratch3-high-contrast .sb3-sensing-alt{fill:#aed8ea}svg.scratchblocks-style-scratch3-high-contrast .sb3-sensing-dark{fill:#2e8eb8}svg.scratchblocks-style-scratch3-high-contrast .sb3-operators{fill:#7ece7e;stroke:#389438}svg.scratchblocks-style-scratch3-high-contrast .sb3-operators-alt{fill:#b5e3b5}svg.scratchblocks-style-scratch3-high-contrast .sb3-operators-dark{fill:#389438}svg.scratchblocks-style-scratch3-high-contrast .sb3-variables{fill:#ffa54c;stroke:#db6e00}svg.scratchblocks-style-scratch3-high-contrast .sb3-variables-alt{fill:#fc9}svg.scratchblocks-style-scratch3-high-contrast .sb3-variables-dark{fill:#db6e00}svg.scratchblocks-style-scratch3-high-contrast .sb3-list{fill:#f96;stroke:#e64d00}svg.scratchblocks-style-scratch3-high-contrast .sb3-list-alt{fill:#ffcab0}svg.scratchblocks-style-scratch3-high-contrast .sb3-list-dark{fill:#e64d00}svg.scratchblocks-style-scratch3-high-contrast .sb3-custom{fill:#f9a;stroke:#e64d00}svg.scratchblocks-style-scratch3-high-contrast .sb3-custom-alt{fill:#ffccd5}svg.scratchblocks-style-scratch3-high-contrast .sb3-custom-dark{fill:#e64d00}svg.scratchblocks-style-scratch3-high-contrast .sb3-extension{fill:#13ecaf;stroke:#0b8e69}svg.scratchblocks-style-scratch3-high-contrast .sb3-extension-alt{fill:#75f0cd}svg.scratchblocks-style-scratch3-high-contrast .sb3-extension-dark{fill:#0b8e69}svg.scratchblocks-style-scratch3-high-contrast .sb3-obsolete{fill:#fc6666;stroke:#d32121}svg.scratchblocks-style-scratch3-high-contrast .sb3-obsolete-alt{fill:#fcb0b0}svg.scratchblocks-style-scratch3-high-contrast .sb3-obsolete-dark{fill:#d32121}svg.scratchblocks-style-scratch3-high-contrast .sb3-grey{fill:#bfbfbf;stroke:#959595}svg.scratchblocks-style-scratch3-high-contrast .sb3-grey-alt{fill:#b2b2b2}svg.scratchblocks-style-scratch3-high-contrast .sb3-grey-dark{fill:#959595}svg.scratchblocks-style-scratch3-high-contrast .sb3-label{fill:#000}svg.scratchblocks-style-scratch3-high-contrast .sb3-input-color{stroke:#fff}svg.scratchblocks-style-scratch3-high-contrast .sb3-input-number,svg.scratchblocks-style-scratch3-high-contrast .sb3-input-string{fill:#fff}svg.scratchblocks-style-scratch3-high-contrast .sb3-literal-number,svg.scratchblocks-style-scratch3-high-contrast .sb3-literal-string{fill:#000}]]></style>
+    </defs>
+    <g style="transform: scale(0.675)">
+        <g transform="translate(0 0)">
+            <g transform="translate(2 1)">
+                <path class="sb3-"
+                      d="M 0 4&#10;      A 4 4 0 0 1 4 0&#10;      H 12 c 2 0 3 1 4 2&#10;      l 4 4&#10;      c 1 1 2 2 4 2&#10;      h 12&#10;      c 2 0 3 -1 4 -2&#10;      l 4 -4&#10;      c 1 -1 2 -2 4 -2&#10;      L 60 0&#10;      a 4 4 0 0 1 4 4 L 64 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"
+                      fill="#0FBD8C" stroke="rgba(0, 0, 0, 0.2)"/>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">pause</text>
+            </g>
+        </g>
+        <g transform="translate(0 75)">
+            <g transform="translate(2 1)">
+                <path class="sb3-"
+                      d="M 0 4&#10;      A 4 4 0 0 1 4 0&#10;      H 12 c 2 0 3 1 4 2&#10;      l 4 4&#10;      c 1 1 2 2 4 2&#10;      h 12&#10;      c 2 0 3 -1 4 -2&#10;      l 4 -4&#10;      c 1 -1 2 -2 4 -2&#10;      L 125 0&#10;      a 4 4 0 0 1 4 4 L 129 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"
+                      fill="#0FBD8C" stroke="rgba(0, 0, 0, 0.2)"/>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">pause</text>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(57 17)">if</text>
+                <g transform="translate(73 8)">
+                    <path d="M 16 0 L 32 0 48 16 L 48 16 32 32 L 16 32 0 16 L 0 16 16 0 Z"
+                          class="sb3-input sb3-input-boolean sb3--dark" fill="rgba(0, 0, 0, 0.15)"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(0 155)">
+            <g transform="translate(2 1)">
+                <path class="sb3-"
+                      d="M 0 4&#10;      A 4 4 0 0 1 4 0&#10;      H 12 c 2 0 3 1 4 2&#10;      l 4 4&#10;      c 1 1 2 2 4 2&#10;      h 12&#10;      c 2 0 3 -1 4 -2&#10;      l 4 -4&#10;      c 1 -1 2 -2 4 -2&#10;      L 214 0&#10;      a 4 4 0 0 1 4 4 L 218 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"
+                      fill="#0FBD8C" stroke="rgba(0, 0, 0, 0.2)"/>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">wait</text>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(41 17)">until</text>
+                <g transform="translate(78 8)">
+                    <path d="M 16 0 L 32 0 48 16 L 48 16 32 32 L 16 32 0 16 L 0 16 16 0 Z"
+                          class="sb3-input sb3-input-boolean sb3--dark" fill="rgba(0, 0, 0, 0.15)"/>
+                </g>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(134 17)">and</text>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(166 17)">pause</text>
+            </g>
+        </g>
+        <g transform="translate(0 235)">
+            <g transform="translate(2 1)">
+                <path class="sb3-" d="M 20 0 L 176 0 196 20 L 196 20 176 40 L 20 40 0 20 L 0 20 20 0 Z" fill="#0FBD8C"
+                      stroke="rgba(0, 0, 0, 0.2)"/>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(20 13)">debugger</text>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(93 13)">is</text>
+                <text class="sb3-label sb3-" x="0" y="13" transform="translate(110 13)">enabled?</text>
+            </g>
+        </g>
+    </g>
+</svg>
