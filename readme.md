@@ -27,6 +27,6 @@ However, if you change things, you'll need to rebuild everything.
 - If you work on the VM, you'll need to run `npm run build` inside the `scratch-vm` folder. Alternatively, you can run `npm run watch` to automatically rebuild the Scratch VM on changes.
 - To see or work on the GUI, run `npm run start` inside the `scratch-gui` folder.
 
-## Sample projects
+## Demo projects
 
-In the `projects` folder, you'll find two sample projects that can be used to experiment with the debugger.
+In the `site/public` folder, you'll find two sample projects that can be used to experiment with the debugger.
