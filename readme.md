@@ -1,6 +1,6 @@
 # Blink: a debugger for Scratch
 
-This is a monorepo for the Blink debugger for Scratch.
+This is a monorepo for the Blink debugger for Scratch. Start playing with the Blink debugger integrated in the Scratch IDE at https://scratch.ugent.be/blink/.
 
 The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository. Blink needs one additional package and a fork of two Scratch packages:
 
