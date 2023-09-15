@@ -1,4 +1,4 @@
-# Blink: a Debugger for Scratch
+# Blink: a debugger for Scratch
 
 This is a monorepo for the Blink debugger for Scratch.
 
