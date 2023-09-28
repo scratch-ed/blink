@@ -24,7 +24,8 @@ cd ..
 
 # Scratch GUI
 cd scratch-gui
-npm link scratch-vm --legacy-peer-dep
+npm install
+npm link scratch-vm
 npm run build
 cd ..
 
