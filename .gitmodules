@@ -1,7 +1,7 @@
 [submodule "scratch-gui"]
 	path = scratch-gui
 	url = git@github.com:scratch4d/scratch-gui.git
-	branch = debugger
+	branch = development
 [submodule "scratch-vm"]
 	path = scratch-vm
 	url = git@github.com:scratch4d/scratch-vm.git
