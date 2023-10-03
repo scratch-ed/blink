@@ -12,7 +12,7 @@ export NODE_OPTIONS=--openssl-legacy-provider
 cd itch
 npm install
 npm run build
-npm link itch-core
+npm link
 cd ..
 
 # Scratch VM
@@ -25,7 +25,7 @@ cd ..
 # Scratch GUI
 cd scratch-gui
 npm install
-npm link scratch-vm itch-core
+npm link scratch-vm itch
 npm run build
 cd ..
 
