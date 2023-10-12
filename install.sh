@@ -6,13 +6,13 @@ set -euo pipefail
 export NODE_OPTIONS=--openssl-legacy-provider
 
 # Ensure we are up-to-date.
-git submodule update --init
+#git submodule update --init
 
 # Itch
 cd itch
 npm install
 npm run build
-npm link --workspace itch-core
+npm link
 cd ..
 
 # Scratch VM
@@ -24,7 +24,8 @@ cd ..
 
 # Scratch GUI
 cd scratch-gui
-npm link scratch-vm --legacy-peer-dep
+npm install
+npm link scratch-vm itch
 npm run build
 cd ..
 
