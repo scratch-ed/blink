@@ -32,3 +32,58 @@ However, if you change things, you'll need to rebuild everything.
 ## Demo projects
 
 In the `site/public` folder, you'll find two sample projects that can be used to experiment with the debugger.
+
+## Debugging with VS Code
+
+### Step 0: installing the basics
+
+1. Install VS Code 
+2. Install Chrome or Chromium
+3. In VS Code, install the "Debugger for Chrome" extension (search for `msjsdiag.debugger-for-chrome`)
+
+### Step 1: adding source maps
+
+1. Pick "Open Folder..." under the "File" menu.
+2. Select your `blink` repository.
+
+Further setup steps will involve editing the launch configuration for your workspace:
+
+1. Open the "Run" panel in the VS Code UI (looks like a bug and a triangle)
+2. Depending on the state of your workspace, one of two options will appear: 
+    * If you see "create a launch.json file" then select that and, in the drop-down menu, select "Chrome"
+    * Otherwise, click the "Open launch.json" button near the top (looks like a gear)
+
+`launch.json` should now look something like this:
+
+```json
+{
+    "version": "0.2.0", // do not edit this version number
+    "configurations": [ // this section may be empty or may have an entry with type "chrome"
+    ]
+}
+```
+
+and to enable debugging of blink, it needs to look like this:
+
+```json
+{
+    "version": "0.2.0", 
+    "configurations": [ 
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch blink in Chrome ",
+            "sourceMapPathOverrides": {
+                "webpack://GUI/./*": "${workspaceFolder}/scratch-gui/*",
+                "webpack://GUI/./node_modules/scratch-vm/*": "${workspaceFolder}/scratch-vm/*",
+                "webpack://itch-core/*": "${workspaceFolder}/itch/packages/core/*"
+            },
+            "sourceMaps": true,
+            "url": "http://localhost:8601", 
+            "webRoot": "/:", 
+        }
+    ]
+}
+```
+
+      
