@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: 'Blink: An educational software debugger for Scratch'
+doi: 10.1016/j.softx.2023.101617
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+date-released: 2023-12-14
+authors:
+  - given-names: Niko
+    family-names: Strijbol
+    email: niko.strijbol@ugent.be
+    affiliation: >-
+          Department of Applied Mathematics, Computer Science
+          and Statistics, Ghent University
+        orcid: 'https://orcid.org/0000-0002-3161-174X'
+  - given-names: Robbe
+    family-names: De Proft
+  - given-names: Klaas
+    family-names: Goethals
+  - given-names: Bart
+    family-names: Mesuere
+    email: bart.mesuere@ugent.be
+    orcid: 'https://orcid.org/0000-0003-0610-3441'
+    affiliation: >-
+      Department of Applied Mathematics, Computer Science
+      and Statistics, Ghent University
+  - given-names: Peter
+    family-names: Dawyndt
+    orcid: 'https://orcid.org/0000-0002-1623-9070'
+    email: peter.dawyndt@ugent.be
+    affiliation: >-
+      Department of Applied Mathematics, Computer Science
+      and Statistics, Ghent University
+  - given-names: Christophe
+    family-names: Scholliers
+    email: christophe.scholliers@ugent.be
+    affiliation: >-
+      Department of Applied Mathematics, Computer Science
+      and Statistics, Ghent University
+    orcid: 'https://orcid.org/0000-0002-2837-4763'
+identifiers:
+  - type: doi
+    value: 10.1016/j.softx.2023.101617
+  - type: url
+    value: https://www.sciencedirect.com/science/article/pii/S2352711023003138
+version: 1.0.0
