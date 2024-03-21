@@ -59,7 +59,7 @@ Further setup steps will involve editing the launch configuration for your works
 
 `launch.json` should now look something like this:
 
-```json
+```json5
 {
     "version": "0.2.0", // do not edit this version number
     "configurations": [ // this section may be empty or may have an entry with type "chrome"
@@ -67,9 +67,9 @@ Further setup steps will involve editing the launch configuration for your works
 }
 ```
 
-and to enable debugging of blink, it needs to look like this:
+and to enable debugging of Blink, it needs to look like this:
 
-```json
+```json5
 {
     "version": "0.2.0", 
     "configurations": [ 
