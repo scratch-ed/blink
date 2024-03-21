@@ -4,9 +4,8 @@ layout: home
 
 hero:
   name: "Blink"
-  text: "A debugger for Scratch"
-  tagline: "Intuitive yet powerful educational software debugger for Scratch"
-#  tagline: Niko Strijbol, Robbe De Proft, Klaas Goethals, Bart Mesuere, Peter Dawyndt, Christophe Scholliers
+  text: "A time-travelling debugger for Scratch"
+  tagline: "Blink is an intuitive, yet powerful educational software debugger for Scratch, with support for time-travelling, breakpoints and stepwise code execution."
   actions:
     - theme: brand
       text: 🢂 Try it out
@@ -43,3 +42,9 @@ features:
     link: https://github.com/scratch-ed/blink
     linkText: View source
 ---
+
+## 🔬 Research
+
+If you find Blink useful and use it in your research, please cite:
+
+Strijbol, N., De Proft, R., Goethals, K., Mesuere, B., Dawyndt, P., & Scholliers, C. (2024). _Blink: An educational software debugger for Scratch._ SoftwareX, vol. 25, p. 101617. https://doi.org/10.1016/j.softx.2023.101617

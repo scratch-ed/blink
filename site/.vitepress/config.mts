@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Blink",
+  title: "Blink: a debugger for Scratch",
   description: "Blink is a time-travelling debugger for Scratch.",
   base: "/blink/",
   themeConfig: {
