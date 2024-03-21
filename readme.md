@@ -2,6 +2,10 @@
 
 This is a monorepo for the Blink debugger for Scratch.
 
+If you find Blink useful and use it in your research, please cite:
+
+Strijbol, N., De Proft, R., Goethals, K., Mesuere, B., Dawyndt, P., & Scholliers, C. (2024). _Blink: An educational software debugger for Scratch._ SoftwareX, vol. 25, p. 101617. https://doi.org/10.1016/j.softx.2023.101617
+
 Start playing with Blink integrated in the Scratch IDE at https://scratch.ugent.be/blink/.
 
 The Scratch project consists of [a bunch of different subprojects](https://github.com/scratchfoundation/scratch-gui/wiki/Getting-Started#repos), each with their own repository. Blink needs one additional package and a fork of two Scratch packages:
@@ -86,4 +90,3 @@ and to enable debugging of blink, it needs to look like this:
 }
 ```
 
-      
