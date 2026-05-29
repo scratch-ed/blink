@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # When will Scratch update?
-export NODE_OPTIONS=--openssl-legacy-provider
+# export NODE_OPTIONS=--openssl-legacy-provider
 
 # Ensure we are up-to-date.
 #git submodule update --init
